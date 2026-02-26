@@ -11,19 +11,21 @@ Final-year IT student | Machine Learning & Data Engineering Enthusiast
 I am an IT engineering student interested in machine learning, deep learning, and data-driven systems. I enjoy building practical AI projects and experimenting with predictive models and intelligent applications. I focus on creating reproducible experiments, interpretable models, and scalable data pipelines.
 
 ---
-## ⚙️ Tech Stack (Visual)
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv" />
-</p>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Technical Skills
 
