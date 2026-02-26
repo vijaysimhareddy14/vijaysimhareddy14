@@ -29,13 +29,12 @@ I am an IT engineering student interested in machine learning, deep learning, an
 
 ## Technical Skills
 
-- Languages: Python, Java
+- Languages: Python
 - Machine Learning: CNN, LSTM, Transformers, BERT, Scikit-learn
-- Deep Learning: TensorFlow, PyTorch, OpenCV, Haar Cascade  
+- Deep Learning: OpenCV, Haar Cascade  
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib 
 - Tools: Git, GitHub, Google Colab, Databricks
 
-_The lists above highlight the tools and frameworks I use most often._
 
 ---
 
