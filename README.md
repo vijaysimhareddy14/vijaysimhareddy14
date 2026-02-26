@@ -11,7 +11,19 @@ Final-year IT student | Machine Learning & Data Engineering Enthusiast
 I am an IT engineering student interested in machine learning, deep learning, and data-driven systems. I enjoy building practical AI projects and experimenting with predictive models and intelligent applications. I focus on creating reproducible experiments, interpretable models, and scalable data pipelines.
 
 ---
+## ⚙️ Tech Stack (Visual)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spark,kafka,hadoop" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 
 ## Technical Skills
 
