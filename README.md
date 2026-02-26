@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Vijay Simha Reddy 👋
 
-<!--
-**vijaysimhareddy14/vijaysimhareddy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year IT student | Machine Learning & Data Engineering Enthusiast
 
-Here are some ideas to get you started:
+---
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About
+
+I am an IT engineering student interested in machine learning, deep learning, and data-driven systems. I enjoy building practical AI projects and experimenting with predictive models and intelligent applications. I focus on creating reproducible experiments, interpretable models, and scalable data pipelines.
+
+---
+
+
+## Technical Skills
+
+- Languages: Python, Java
+- Machine Learning: CNN, LSTM, Transformers, BERT, Scikit-learn
+- Deep Learning: TensorFlow, PyTorch
+- Big Data: Apache Spark, Spark MLlib, Kafka, HDFS, Pig
+- Tools: Git, GitHub, Google Colab, Databricks
+
+_The lists above highlight the tools and frameworks I use most often._
+
+---
+
+
+## Selected Projects
+
+1. Cryptocurrency Price Prediction
+	- Hybrid model using LSTM for time-series forecasting.
+	- Integrated sentiment analysis from news and social data to capture market mood.
+	- Focused on volatility-aware trend prediction and short-term signals.
+
+2. Deepfake Detection System
+	- CNN–RNN based deepfake detection model trained on real vs manipulated video data.
+	- Pipeline includes frame extraction, data augmentation, and sequence modeling.
+	- Achieved ~74–75% accuracy on the evaluation set.
+
+3. AI Comic Strip Generator
+	- Generates comic-style visuals from text prompts by combining NLP with image-generation techniques.
+	- End-to-end pipeline from prompt parsing to image post-processing for stylistic effects.
+
+4. Geo-Intelligence Assistant
+	- Tool for analyzing and processing geographical intelligence data.
+	- Integrates spatial joins, feature extraction, and domain-specific visualizations.
+
+Check my repositories for code, notebooks, and model artifacts.
+
+---
+
+
+## Open Source & Contributions
+
+- I maintain personal projects and share experiments, notebooks, and small utilities related to ML and data engineering.
+- I welcome collaboration, issues, and pull requests — I prefer small, well-scoped contributions.
+
+---
+
+
+## What I'm learning
+
+- Short-term: Productionizing ML workflows and scalable data processing with Spark and Databricks.
+- Long-term: Advanced deep learning architectures and efficient model serving at scale.
+
+---
+
+
+## How I Work
+
+- I value clear, reproducible experiments and maintainable code.
+- I use version control, notebooks for experimentation, and automated pipelines for reliable results.
+
+---
+
+
+## Education
+
+Bachelor of Engineering in Information Technology — Expected graduation: 2026
+
+---
+
+## Contact & Links
+
+- GitHub: https://github.com/<your-github-username>
+- LinkedIn: https://www.linkedin.com/in/<your-linkedin-profile>
+
+If you'd like, I can replace these placeholders with your actual profile links and add project repo links.
+
+---
+
+
+---
+
+Thanks for visiting — let’s build something great together! 🚀
