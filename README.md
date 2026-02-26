@@ -28,21 +28,21 @@ _The lists above highlight the tools and frameworks I use most often._
 
 ## Selected Projects
 
-1. Cryptocurrency Price Prediction
+1. Cryptocurrency Price Prediction (https://github.com/vijaysimhareddy14/crypto_price_prediction)
 	- Hybrid model using LSTM for time-series forecasting.
 	- Integrated sentiment analysis from news and social data to capture market mood.
 	- Focused on volatility-aware trend prediction and short-term signals.
 
-2. Deepfake Detection System
+2. Deepfake Detection System (https://github.com/vijaysimhareddy14/deepfake_detection)
 	- CNN–RNN based deepfake detection model trained on real vs manipulated video data.
 	- Pipeline includes frame extraction, data augmentation, and sequence modeling.
 	- Achieved ~74–75% accuracy on the evaluation set.
 
-3. AI Comic Strip Generator
+3. AI Comic Strip Generator (https://github.com/vijaysimhareddy14/ai-comic-strip-generator)
 	- Generates comic-style visuals from text prompts by combining NLP with image-generation techniques.
 	- End-to-end pipeline from prompt parsing to image post-processing for stylistic effects.
 
-4. Geo-Intelligence Assistant
+4. Geo-Intelligence Assistant (https://github.com/vijaysimhareddy14/geo_intel_assistant)
 	- Tool for analyzing and processing geographical intelligence data.
 	- Integrates spatial joins, feature extraction, and domain-specific visualizations.
 
@@ -83,8 +83,8 @@ Bachelor of Engineering in Information Technology — Expected graduation: 2026
 
 ## Contact & Links
 
-- GitHub: https://github.com/<your-github-username>
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin-profile>
+- GitHub: https://github.com/vijaysimhareddy14
+- LinkedIn: https://www.linkedin.com/in/vijay-reddy-91355a2a6/
 
 If you'd like, I can replace these placeholders with your actual profile links and add project repo links.
 
