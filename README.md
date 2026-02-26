@@ -14,11 +14,11 @@ I am an IT engineering student interested in machine learning, deep learning, an
 ## ⚙️ Tech Stack (Visual)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spark,kafka,hadoop" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 <p align="left">
@@ -29,8 +29,8 @@ I am an IT engineering student interested in machine learning, deep learning, an
 
 - Languages: Python, Java
 - Machine Learning: CNN, LSTM, Transformers, BERT, Scikit-learn
-- Deep Learning: TensorFlow, PyTorch
-- Big Data: Apache Spark, Spark MLlib, Kafka, HDFS, Pig
+- Deep Learning: TensorFlow, PyTorch, OpenCV, Haar Cascade  
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib 
 - Tools: Git, GitHub, Google Colab, Databricks
 
 _The lists above highlight the tools and frameworks I use most often._
